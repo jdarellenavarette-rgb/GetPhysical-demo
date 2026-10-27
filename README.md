@@ -13,8 +13,8 @@ GetPhysical/
 ├── turbo.json              # Turborepo build pipeline configuration
 │
 ├── apps/
-│   ├── mobile/             # (Sodia) - Unified React Native app. B2C consumer feed AND B2B role-based portals (Staff Selfie DTR, Owner Dash)
-│   └── web/                # (GymDash/CoachDash) - B2B Next.js 14+ heavy administrative dashboards
+│   ├── mobile/             # (Sodia) - Unified React Native app. B2C consumer feed AND B2B role-based portals (Staff Selfie DTR and Portable Sales Scanner, Owner Quick Dash, Coach Dash, and Organizer Dash)
+│   └── web/                # (GymDash/ClubDash) - B2B Next.js 14+ heavy administrative dashboards
 │
 ├── packages/
 │   ├── db/                 # Supabase client, migrations (.sql), and generated types
