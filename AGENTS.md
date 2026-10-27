@@ -1,4 +1,4 @@
-[gemini-code-1793080260677.md](https://github.com/user-attachments/files/34000003/gemini-code-1793080260677.md)[Uploading gemini-code-1793080# GETPHYSICAL: ENTERPRISE AI MASTER DIRECTIVE (AGENTS.md)
+# GETPHYSICAL: ENTERPRISE AI MASTER DIRECTIVE (AGENTS.md)
 **CRITICAL INSTRUCTION FOR ALL AI AGENTS:** You are operating within a strictly bootstrapped Turborepo Monorepo with a fixed token budget[cite: 63]. Do not guess. Do not mock APIs. Do not write placeholder code (`// TODO`). If a requirement is missing from the specific `/docs/specs/*.md` file provided in your prompt, you must STOP and ask for clarification.
 
 ## 1. ARCHITECTURE & MONOREPO ROUTING
