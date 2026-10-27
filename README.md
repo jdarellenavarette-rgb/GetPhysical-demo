@@ -2,7 +2,7 @@
 
 **GetPhysical** is a B2B2C fitness ecosystem. We provide enterprise-grade, free operational software to physical gyms and sports clubs (GymDash/ClubDash/CoachDash). By controlling the facility's front desk, court bookings, and access gates, we drive their consumer base to download the Sodia mobile app to gain physical entry and book services.
 
-## 🏗 Repository Map (Turborepo)
+## Repository Map (Turborepo)
 
 This codebase is a strict Monorepo managed by Turborepo and `pnpm`. It separates consumer interfaces, business dashboards, and shared database logic into isolated workspaces.
 
