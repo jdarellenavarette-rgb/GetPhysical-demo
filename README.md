@@ -22,4 +22,4 @@ GetPhysical/
 │   └── utils/              # Shared Zod schemas, date formatting, and helpers
 │
 └── docs/
-    └── specs/              # Obsidian Markdown files containing individual feature specs)
+    └── specs/              # Obsidian Markdown files containing individual feature specs

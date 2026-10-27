@@ -54,4 +54,4 @@ Before offering a complete solution, silently verify:
 2. Is there a `select('*')` query? (If yes, explicitly name the columns).
 3. Are all mobile lists using FlashList? (If no, rewrite).
 4. Is data fetching using React Query (Mobile) or Server Components (Web)? (If no, rewrite).
-5. Are all SVG icons using Lucide? (If no, remove inline SVGs).260677.md…]()
+5. Are all SVG icons using Lucide? (If no, remove inline SVGs).
