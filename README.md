@@ -23,3 +23,4 @@ GetPhysical/
 │
 └── docs/
     └── specs/              # Obsidian Markdown files containing individual feature specs
+```
